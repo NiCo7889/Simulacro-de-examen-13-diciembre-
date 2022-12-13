@@ -15,3 +15,4 @@
 # "#?" no son válidos)
 # Entrada: cadena de palabras, donde algunas palabras pueden contener un hashtag.
 # Salida: matriz de cadenas que tenían el prefijo del hashtag, pero que no contienen el hashtag.
+
